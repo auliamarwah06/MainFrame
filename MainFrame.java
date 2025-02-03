@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author aulia marwah kandari
+ * @author Aulia Marwah K
  */
 public class MainFrame extends javax.swing.JFrame {
 
@@ -50,7 +50,7 @@ public class MainFrame extends javax.swing.JFrame {
             .addGap(0, 371, Short.MAX_VALUE)
         );
 
-        jMenu1.setText("LOGIN/MASUK");
+        jMenu1.setText("LOGIN");
 
         menuLogin.setText("LOGIN");
         menuLogin.addActionListener(new java.awt.event.ActionListener() {
